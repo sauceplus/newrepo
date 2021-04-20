@@ -12,7 +12,7 @@ cout<<"professional english"<<endl;
 
 > 以下是一个引用,引用来自web的图片
 
-![这是web上gif图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2F2021%2Fedpic%2Ff1%2F88%2F71%2Ff1887154048414c4134e8bf7a3262a19_1.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1621439998&t=bcdc156f63b9a2615ad38e9ad86cb074)
+![web上的png图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2F2021%2Fedpic%2Ff1%2F88%2F71%2Ff1887154048414c4134e8bf7a3262a19_1.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1621439998&t=bcdc156f63b9a2615ad38e9ad86cb074)
 
 **以下是来自本地仓库的图片**
 
